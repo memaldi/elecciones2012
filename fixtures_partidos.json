@@ -1,0 +1,141 @@
+[
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 0,
+      "fields" : {
+          "name" : "EAJ-PNV",
+          "color": "#008236"
+      }
+    },
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 1,
+      "fields" : {
+          "name" : "PP",
+          "color": "#00a9d4"
+      }
+    },
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 2,
+      "fields" : {
+          "name" : "EB-B"
+      }
+    },
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 3,
+      "fields" : {
+          "name" : "PH",
+          "color" : "#fd7f07"
+      }
+    },
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 4,
+      "fields" : {
+          "name" : "EK-PCPE"
+      }
+    },
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 5,
+      "fields" : {
+          "name" : "POSI"
+      }
+    },
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 6,
+      "fields" : {
+          "name" : "UCE"
+      }
+    },
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 7,
+      "fields" : {
+          "name" : "PSE-EE/PSOE",
+          "color": "#f11b25"
+      }
+    },
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 8,
+      "fields" : {
+          "name" : "PACMA/ATTKA"
+      }
+    },
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 9,
+      "fields" : {
+          "name" : "PUM+J"
+      }
+    },
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 10,
+      "fields" : {
+          "name" : "PFYV"
+      }
+    },
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 11,
+      "fields" : {
+          "name" : "UPYD",
+          "color" : "#ff009c"
+      }
+    },
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 12,
+      "fields" : {
+          "name" : "EQUO"
+      }
+    },
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 13,
+      "fields" : {
+          "name" : "IU-LV"
+      }
+    },
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 14,
+      "fields" : {
+          "name" : "EB-AZ"
+      }
+    },
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 15,
+      "fields" : {
+          "name" : "ONGI ETORRI"
+      }
+    },
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 16,
+      "fields" : {
+          "name" : "EH BILDU",
+          "color": "#b4ca06"
+      }
+    },
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 17,
+      "fields" : {
+          "name" : "PYC"
+      }
+    },
+    {
+      "model" : "town_graphs.Partido",
+      "pk" : 18,
+      "fields" : {
+          "name" : "HARTOS.ORG"
+      }
+    }
+  ]

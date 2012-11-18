@@ -19,7 +19,8 @@
       "model" : "town_graphs.Partido",
       "pk" : 2,
       "fields" : {
-          "name" : "EB-B"
+          "name" : "EB-B",
+          "color" : "#d20107"
       }
     },
     {
@@ -34,21 +35,24 @@
       "model" : "town_graphs.Partido",
       "pk" : 4,
       "fields" : {
-          "name" : "EK-PCPE"
+          "name" : "EK-PCPE",
+          "color" : "#c70005"
       }
     },
     {
       "model" : "town_graphs.Partido",
       "pk" : 5,
       "fields" : {
-          "name" : "POSI"
+          "name" : "POSI",
+          "color" : "#bc001d"
       }
     },
     {
       "model" : "town_graphs.Partido",
       "pk" : 6,
       "fields" : {
-          "name" : "UCE"
+          "name" : "UCE",
+          "color": "#c20501"
       }
     },
     {
@@ -63,21 +67,24 @@
       "model" : "town_graphs.Partido",
       "pk" : 8,
       "fields" : {
-          "name" : "PACMA/ATTKA"
+          "name" : "PACMA/ATTKA",
+          "color": "#a8e400"
       }
     },
     {
       "model" : "town_graphs.Partido",
       "pk" : 9,
       "fields" : {
-          "name" : "PUM+J"
+          "name" : "PUM+J",
+          "color" : "#4bbced"
       }
     },
     {
       "model" : "town_graphs.Partido",
       "pk" : 10,
       "fields" : {
-          "name" : "PFYV"
+          "name" : "PFYV",
+          "color" : "#2c598a"
       }
     },
     {
@@ -92,28 +99,32 @@
       "model" : "town_graphs.Partido",
       "pk" : 12,
       "fields" : {
-          "name" : "EQUO"
+          "name" : "EQUO",
+          "color" : "#850084"
       }
     },
     {
       "model" : "town_graphs.Partido",
       "pk" : 13,
       "fields" : {
-          "name" : "IU-LV"
+          "name" : "IU-LV",
+          "color" : "#dd0021"
       }
     },
     {
       "model" : "town_graphs.Partido",
       "pk" : 14,
       "fields" : {
-          "name" : "EB-AZ"
+          "name" : "EB-AZ",
+          "color" : "#242021"
       }
     },
     {
       "model" : "town_graphs.Partido",
       "pk" : 15,
       "fields" : {
-          "name" : "ONGI ETORRI"
+          "name" : "ONGI ETORRI",
+          "color" : "#000000"
       }
     },
     {
@@ -128,14 +139,16 @@
       "model" : "town_graphs.Partido",
       "pk" : 17,
       "fields" : {
-          "name" : "PYC"
+          "name" : "PYC",
+          "color" : "#47010f"
       }
     },
     {
       "model" : "town_graphs.Partido",
       "pk" : 18,
       "fields" : {
-          "name" : "HARTOS.ORG"
+          "name" : "HARTOS.ORG",
+          "color" : "#079dab"
       }
     }
   ]

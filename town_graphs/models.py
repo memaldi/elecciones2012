@@ -18,6 +18,7 @@ class Municipio(models.Model):
 
 class Partido(models.Model):
     name = models.CharField(max_length=50)
+    color = models.CharField(max_length=10)
     
 class Votos(models.Model):
     partido = models.ForeignKey(Partido)

@@ -16,5 +16,5 @@ urlpatterns = patterns('',
     # url(r'^admin/', include(admin.site.urls)),
     url(r'^municipio/$', 'town_graphs.views.index'),
     url(r'^municipio/(?P<municipio_id>\d+)/$', 'town_graphs.views.detail'),
-    (r'^static/(?P<path>.*)$', 'django.views.static.serve', {'document_root': '/home/mikel/open_data/elecciones2012/visualization/elecciones2012/town_graphs/static'}),
+    (r'^static/(?P<path>.*)$', 'django.views.static.serve', {'document_root': '/home/mikel/open_data/elecciones2012/elecciones2012/town_graphs/static'}),
 )

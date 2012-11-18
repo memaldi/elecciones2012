@@ -20,11 +20,18 @@
         data.addColumn('string', 'Formación');
         data.addColumn('number', 'Votos');
         
+        var colors = new Array();
+        var i = 0;
+        
         {% for voto in votos %}
             {% if voto.num_votos != None %}
                 data.addRow(['{{voto.partido.name}}', {{voto.num_votos}}]);
+                colors[i] = "{{voto.partido.color}}";
+                i = i + 1;
             {% endif %}
-        {% endfor %} 
+        {% endfor %}
+        
+        
         // Set chart options
         var options = {'title':'RESULTADOS',
                        'width':1024,
@@ -32,7 +39,8 @@
                        'sliceVisibilityThreshold': 1/100000000000, 
                        'is3D': true, 
                        'tooltip.showColorCode': false,
-                       'chartArea': {'width': '100%', 'height': '80%'}};
+                       'chartArea': {'width': '100%', 'height': '80%'},
+                       'colors': colors};
 
         // Instantiate and draw our chart, passing in some options.
         var chart = new google.visualization.PieChart(document.getElementById('chart_partidos'));

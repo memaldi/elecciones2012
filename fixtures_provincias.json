@@ -1,21 +1,21 @@
 [
     {
       "model" : "town_graphs.Provincia",
-      "pk" : 0,
+      "pk" : 1,
       "fields" : {
           "name" : "ARABA/ÁLAVA"
       }
     },
     {
       "model" : "town_graphs.Provincia",
-      "pk" : 1,
+      "pk" : 2,
       "fields" : {
           "name" : "GIPUZKOA"
       }
     },
     {
       "model" : "town_graphs.Provincia",
-      "pk" : 2,
+      "pk" : 3,
       "fields" : {
           "name" : "BIZKAIA"
       }

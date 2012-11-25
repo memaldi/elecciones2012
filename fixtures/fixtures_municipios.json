@@ -1,0 +1,3558 @@
+[
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "159",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "VITORIA-GASTEIZ",
+          "censo" : 183640,
+          "nulos" : 1764,
+          "blancos" : 1734,
+          "candidatos" : 114094,
+          "abstenciones" : 66048
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "11",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "ALEGRÍA-DULANTZI",
+          "censo" : 2016,
+          "nulos" : 20,
+          "blancos" : 33,
+          "candidatos" : 1213,
+          "abstenciones" : 750
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "13",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "ARAMAIO",
+          "censo" : 1199,
+          "nulos" : 3,
+          "blancos" : 4,
+          "candidatos" : 882,
+          "abstenciones" : 310
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "16",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "ARMIÑÓN",
+          "censo" : 182,
+          "nulos" : 1,
+          "blancos" : 4,
+          "candidatos" : 115,
+          "abstenciones" : 62
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "18",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "ARRAZUA-UBARRUNDIA",
+          "censo" : 789,
+          "nulos" : 1,
+          "blancos" : 7,
+          "candidatos" : 524,
+          "abstenciones" : 257
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "19",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "ASPARRENA",
+          "censo" : 1296,
+          "nulos" : 9,
+          "blancos" : 4,
+          "candidatos" : 860,
+          "abstenciones" : 423
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "111",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "BAÑOS DE EBRO / MAÑUETA",
+          "censo" : 242,
+          "nulos" : 6,
+          "blancos" : 7,
+          "candidatos" : 150,
+          "abstenciones" : 79
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "113",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "BARRUNDIA",
+          "censo" : 710,
+          "nulos" : 1,
+          "blancos" : 6,
+          "candidatos" : 463,
+          "abstenciones" : 240
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "114",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "BERANTEVILLA",
+          "censo" : 383,
+          "nulos" : 6,
+          "blancos" : 4,
+          "candidatos" : 262,
+          "abstenciones" : 111
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "116",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "BERNEDO",
+          "censo" : 455,
+          "nulos" : 11,
+          "blancos" : 6,
+          "candidatos" : 228,
+          "abstenciones" : 210
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "117",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "CAMPEZO / KANPEZU",
+          "censo" : 896,
+          "nulos" : 4,
+          "blancos" : 10,
+          "candidatos" : 564,
+          "abstenciones" : 318
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "118",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "ZIGOITIA",
+          "censo" : 1396,
+          "nulos" : 14,
+          "blancos" : 13,
+          "candidatos" : 909,
+          "abstenciones" : 460
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "119",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "KRIPAN",
+          "censo" : 154,
+          "nulos" : 0,
+          "blancos" : 0,
+          "candidatos" : 123,
+          "abstenciones" : 31
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "120",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "KUARTANGO",
+          "censo" : 319,
+          "nulos" : 1,
+          "blancos" : 3,
+          "candidatos" : 234,
+          "abstenciones" : 81
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "121",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "ELBURGO / BURGELU",
+          "censo" : 468,
+          "nulos" : 6,
+          "blancos" : 1,
+          "candidatos" : 305,
+          "abstenciones" : 156
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "122",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "ELCIEGO",
+          "censo" : 821,
+          "nulos" : 12,
+          "blancos" : 9,
+          "candidatos" : 517,
+          "abstenciones" : 283
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "123",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "ELVILLAR / BILAR",
+          "censo" : 286,
+          "nulos" : 1,
+          "blancos" : 4,
+          "candidatos" : 187,
+          "abstenciones" : 94
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "127",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "IRURAIZ-GAUNA",
+          "censo" : 423,
+          "nulos" : 4,
+          "blancos" : 3,
+          "candidatos" : 255,
+          "abstenciones" : 161
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "128",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "LABASTIDA / BASTIDA",
+          "censo" : 1099,
+          "nulos" : 5,
+          "blancos" : 12,
+          "candidatos" : 673,
+          "abstenciones" : 409
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "130",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "LAGRÁN",
+          "censo" : 155,
+          "nulos" : 1,
+          "blancos" : 1,
+          "candidatos" : 106,
+          "abstenciones" : 47
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "131",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "LAGUARDIA",
+          "censo" : 1219,
+          "nulos" : 37,
+          "blancos" : 6,
+          "candidatos" : 745,
+          "abstenciones" : 431
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "132",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "LANCIEGO / LANTZIEGO",
+          "censo" : 530,
+          "nulos" : 10,
+          "blancos" : 1,
+          "candidatos" : 348,
+          "abstenciones" : 171
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "133",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "LAPUEBLA DE LABARCA",
+          "censo" : 667,
+          "nulos" : 5,
+          "blancos" : 3,
+          "candidatos" : 472,
+          "abstenciones" : 187
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "134",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "LEZA",
+          "censo" : 162,
+          "nulos" : 2,
+          "blancos" : 2,
+          "candidatos" : 109,
+          "abstenciones" : 49
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "137",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "ARRAIA-MAEZTU",
+          "censo" : 624,
+          "nulos" : 5,
+          "blancos" : 1,
+          "candidatos" : 397,
+          "abstenciones" : 221
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "139",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "MOREDA DE ÁLAVA / MOREDA ARABA",
+          "censo" : 212,
+          "nulos" : 4,
+          "blancos" : 3,
+          "candidatos" : 154,
+          "abstenciones" : 51
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "141",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "NAVARIDAS",
+          "censo" : 157,
+          "nulos" : 1,
+          "blancos" : 4,
+          "candidatos" : 89,
+          "abstenciones" : 63
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "143",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "OYÓN-OION",
+          "censo" : 2307,
+          "nulos" : 27,
+          "blancos" : 14,
+          "candidatos" : 1336,
+          "abstenciones" : 930
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "144",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "PEÑACERRADA-URIZAHARRA",
+          "censo" : 236,
+          "nulos" : 1,
+          "blancos" : 1,
+          "candidatos" : 155,
+          "abstenciones" : 79
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "146",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "ERRIBERA GOITIA / RIBERA ALTA",
+          "censo" : 606,
+          "nulos" : 5,
+          "blancos" : 6,
+          "candidatos" : 371,
+          "abstenciones" : 224
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "147",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "RIBERA BAJA / ERRIBERA BEITIA",
+          "censo" : 938,
+          "nulos" : 12,
+          "blancos" : 12,
+          "candidatos" : 532,
+          "abstenciones" : 382
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "149",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "AÑANA",
+          "censo" : 141,
+          "nulos" : 0,
+          "blancos" : 1,
+          "candidatos" : 103,
+          "abstenciones" : 37
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "151",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "SALVATIERRA / AGURAIN",
+          "censo" : 3666,
+          "nulos" : 18,
+          "blancos" : 19,
+          "candidatos" : 2200,
+          "abstenciones" : 1429
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "152",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "SAMANIEGO",
+          "censo" : 235,
+          "nulos" : 2,
+          "blancos" : 2,
+          "candidatos" : 172,
+          "abstenciones" : 59
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "153",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "SAN MILLÁN / DONEMILIAGA",
+          "censo" : 600,
+          "nulos" : 4,
+          "blancos" : 3,
+          "candidatos" : 343,
+          "abstenciones" : 250
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "154",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "URKABUSTAIZ",
+          "censo" : 944,
+          "nulos" : 5,
+          "blancos" : 15,
+          "candidatos" : 664,
+          "abstenciones" : 260
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "155",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "VALDEGOVÍA / GAUBEA",
+          "censo" : 878,
+          "nulos" : 16,
+          "blancos" : 12,
+          "candidatos" : 535,
+          "abstenciones" : 315
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "156",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "HARANA / VALLE DE ARANA",
+          "censo" : 246,
+          "nulos" : 0,
+          "blancos" : 1,
+          "candidatos" : 160,
+          "abstenciones" : 85
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "157",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "VILLABUENA DE ÁLAVA / ESKUERNAGA",
+          "censo" : 255,
+          "nulos" : 1,
+          "blancos" : 1,
+          "candidatos" : 191,
+          "abstenciones" : 62
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "158",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "LEGUTIO",
+          "censo" : 1336,
+          "nulos" : 5,
+          "blancos" : 7,
+          "candidatos" : 835,
+          "abstenciones" : 489
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "160",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "YÉCORA / IEKORA",
+          "censo" : 209,
+          "nulos" : 4,
+          "blancos" : 1,
+          "candidatos" : 137,
+          "abstenciones" : 67
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "161",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "ZALDUONDO",
+          "censo" : 151,
+          "nulos" : 2,
+          "blancos" : 3,
+          "candidatos" : 122,
+          "abstenciones" : 24
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "162",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "ZAMBRANA",
+          "censo" : 330,
+          "nulos" : 1,
+          "blancos" : 4,
+          "candidatos" : 188,
+          "abstenciones" : 137
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "163",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "ZUIA",
+          "censo" : 1809,
+          "nulos" : 17,
+          "blancos" : 38,
+          "candidatos" : 1226,
+          "abstenciones" : 528
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "1901",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "IRUÑA OKA / IRUÑA DE OCA",
+          "censo" : 2269,
+          "nulos" : 21,
+          "blancos" : 28,
+          "candidatos" : 1374,
+          "abstenciones" : 846
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "1902",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "LANTARÓN",
+          "censo" : 772,
+          "nulos" : 6,
+          "blancos" : 7,
+          "candidatos" : 455,
+          "abstenciones" : 304
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "12",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "AMURRIO",
+          "censo" : 8082,
+          "nulos" : 83,
+          "blancos" : 45,
+          "candidatos" : 5583,
+          "abstenciones" : 2371
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "14",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "ARTZINIEGA",
+          "censo" : 1418,
+          "nulos" : 27,
+          "blancos" : 10,
+          "candidatos" : 949,
+          "abstenciones" : 432
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "110",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "AYALA / AIARA",
+          "censo" : 2264,
+          "nulos" : 25,
+          "blancos" : 21,
+          "candidatos" : 1577,
+          "abstenciones" : 641
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "136",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "LAUDIO / LLODIO",
+          "censo" : 15218,
+          "nulos" : 108,
+          "blancos" : 119,
+          "candidatos" : 9781,
+          "abstenciones" : 5210
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "142",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "OKONDO",
+          "censo" : 907,
+          "nulos" : 9,
+          "blancos" : 8,
+          "candidatos" : 652,
+          "abstenciones" : 238
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "1999",
+     "fields" : {
+          "provincia" : 1,
+          "name" : "C.E.R.A Araba/Álava",
+          "censo" : 4677,
+          "nulos" : 15,
+          "blancos" : 7,
+          "candidatos" : 382,
+          "abstenciones" : 4273
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "240",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "HERNANI",
+          "censo" : 15108,
+          "nulos" : 67,
+          "blancos" : 136,
+          "candidatos" : 9288,
+          "abstenciones" : 5617
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "269",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "DONOSTIA-SAN SEBASTIÁN",
+          "censo" : 146677,
+          "nulos" : 492,
+          "blancos" : 1379,
+          "candidatos" : 95044,
+          "abstenciones" : 49762
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "272",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "URNIETA",
+          "censo" : 4647,
+          "nulos" : 16,
+          "blancos" : 43,
+          "candidatos" : 2773,
+          "abstenciones" : 1815
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "273",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "USURBIL",
+          "censo" : 4669,
+          "nulos" : 23,
+          "blancos" : 44,
+          "candidatos" : 3132,
+          "abstenciones" : 1470
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "2902",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "LASARTE-ORIA",
+          "censo" : 14137,
+          "nulos" : 50,
+          "blancos" : 100,
+          "candidatos" : 9183,
+          "abstenciones" : 4804
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "2903",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ASTIGARRAGA",
+          "censo" : 3811,
+          "nulos" : 13,
+          "blancos" : 49,
+          "candidatos" : 2356,
+          "abstenciones" : 1393
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "236",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "HONDARRIBIA",
+          "censo" : 12753,
+          "nulos" : 49,
+          "blancos" : 138,
+          "candidatos" : 8217,
+          "abstenciones" : 4349
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "245",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "IRUN",
+          "censo" : 46524,
+          "nulos" : 224,
+          "blancos" : 448,
+          "candidatos" : 27563,
+          "abstenciones" : 18289
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "253",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "LEZO",
+          "censo" : 4826,
+          "nulos" : 28,
+          "blancos" : 43,
+          "candidatos" : 2673,
+          "abstenciones" : 2082
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "263",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "OIARTZUN",
+          "censo" : 7874,
+          "nulos" : 13,
+          "blancos" : 48,
+          "candidatos" : 5297,
+          "abstenciones" : 2516
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "264",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "PASAIA",
+          "censo" : 12384,
+          "nulos" : 60,
+          "blancos" : 127,
+          "candidatos" : 6937,
+          "abstenciones" : 5260
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "267",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ERRENTERIA",
+          "censo" : 31031,
+          "nulos" : 120,
+          "blancos" : 239,
+          "candidatos" : 18214,
+          "abstenciones" : 12458
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "21",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ABALTZISKETA",
+          "censo" : 244,
+          "nulos" : 1,
+          "blancos" : 0,
+          "candidatos" : 171,
+          "abstenciones" : 72
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "22",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ADUNA",
+          "censo" : 345,
+          "nulos" : 4,
+          "blancos" : 6,
+          "candidatos" : 234,
+          "abstenciones" : 101
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "24",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ALBIZTUR",
+          "censo" : 255,
+          "nulos" : 0,
+          "blancos" : 5,
+          "candidatos" : 144,
+          "abstenciones" : 106
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "25",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ALEGIA",
+          "censo" : 1325,
+          "nulos" : 2,
+          "blancos" : 4,
+          "candidatos" : 875,
+          "abstenciones" : 444
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "26",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ALKIZA",
+          "censo" : 284,
+          "nulos" : 3,
+          "blancos" : 1,
+          "candidatos" : 174,
+          "abstenciones" : 106
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "27",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ALTZO",
+          "censo" : 299,
+          "nulos" : 2,
+          "blancos" : 3,
+          "candidatos" : 203,
+          "abstenciones" : 91
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "28",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "AMEZKETA",
+          "censo" : 755,
+          "nulos" : 0,
+          "blancos" : 5,
+          "candidatos" : 475,
+          "abstenciones" : 275
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "29",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ANDOAIN",
+          "censo" : 11724,
+          "nulos" : 35,
+          "blancos" : 99,
+          "candidatos" : 7220,
+          "abstenciones" : 4370
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "210",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ANOETA",
+          "censo" : 1395,
+          "nulos" : 6,
+          "blancos" : 10,
+          "candidatos" : 978,
+          "abstenciones" : 401
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "212",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ARAMA",
+          "censo" : 149,
+          "nulos" : 0,
+          "blancos" : 1,
+          "candidatos" : 111,
+          "abstenciones" : 37
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "214",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ASTEASU",
+          "censo" : 1108,
+          "nulos" : 0,
+          "blancos" : 5,
+          "candidatos" : 675,
+          "abstenciones" : 428
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "215",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ATAUN",
+          "censo" : 1310,
+          "nulos" : 3,
+          "blancos" : 14,
+          "candidatos" : 998,
+          "abstenciones" : 295
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "219",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "BEASAIN",
+          "censo" : 10113,
+          "nulos" : 48,
+          "blancos" : 81,
+          "candidatos" : 6380,
+          "abstenciones" : 3604
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "221",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "BELAUNTZA",
+          "censo" : 214,
+          "nulos" : 0,
+          "blancos" : 1,
+          "candidatos" : 117,
+          "abstenciones" : 96
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "222",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "BERASTEGI",
+          "censo" : 836,
+          "nulos" : 4,
+          "blancos" : 7,
+          "candidatos" : 535,
+          "abstenciones" : 290
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "223",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "BERROBI",
+          "censo" : 445,
+          "nulos" : 0,
+          "blancos" : 4,
+          "candidatos" : 276,
+          "abstenciones" : 165
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "225",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ZEGAMA",
+          "censo" : 1162,
+          "nulos" : 5,
+          "blancos" : 7,
+          "candidatos" : 820,
+          "abstenciones" : 330
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "226",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ZERAIN",
+          "censo" : 211,
+          "nulos" : 2,
+          "blancos" : 1,
+          "candidatos" : 174,
+          "abstenciones" : 34
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "228",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ZIZURKIL",
+          "censo" : 2245,
+          "nulos" : 7,
+          "blancos" : 31,
+          "candidatos" : 1402,
+          "abstenciones" : 805
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "231",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ELDUAIN",
+          "censo" : 181,
+          "nulos" : 0,
+          "blancos" : 0,
+          "candidatos" : 121,
+          "abstenciones" : 60
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "235",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "EZKIO-ITSASO",
+          "censo" : 493,
+          "nulos" : 0,
+          "blancos" : 3,
+          "candidatos" : 335,
+          "abstenciones" : 155
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "237",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "GAINTZA",
+          "censo" : 102,
+          "nulos" : 0,
+          "blancos" : 3,
+          "candidatos" : 72,
+          "abstenciones" : 27
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "238",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "GABIRIA",
+          "censo" : 383,
+          "nulos" : 3,
+          "blancos" : 2,
+          "candidatos" : 285,
+          "abstenciones" : 93
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "241",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "HERNIALDE",
+          "censo" : 277,
+          "nulos" : 0,
+          "blancos" : 0,
+          "candidatos" : 156,
+          "abstenciones" : 121
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "242",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "IBARRA",
+          "censo" : 3352,
+          "nulos" : 7,
+          "blancos" : 27,
+          "candidatos" : 2063,
+          "abstenciones" : 1255
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "243",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "IDIAZABAL",
+          "censo" : 1761,
+          "nulos" : 5,
+          "blancos" : 16,
+          "candidatos" : 1227,
+          "abstenciones" : 513
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "244",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "IKAZTEGIETA",
+          "censo" : 367,
+          "nulos" : 0,
+          "blancos" : 2,
+          "candidatos" : 245,
+          "abstenciones" : 120
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "246",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "IRURA",
+          "censo" : 1159,
+          "nulos" : 4,
+          "blancos" : 19,
+          "candidatos" : 765,
+          "abstenciones" : 371
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "247",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ITSASONDO",
+          "censo" : 484,
+          "nulos" : 4,
+          "blancos" : 1,
+          "candidatos" : 320,
+          "abstenciones" : 159
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "248",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "LARRAUL",
+          "censo" : 174,
+          "nulos" : 0,
+          "blancos" : 2,
+          "candidatos" : 108,
+          "abstenciones" : 64
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "249",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "LAZKAO",
+          "censo" : 4098,
+          "nulos" : 12,
+          "blancos" : 46,
+          "candidatos" : 2642,
+          "abstenciones" : 1398
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "250",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "LEABURU",
+          "censo" : 282,
+          "nulos" : 2,
+          "blancos" : 2,
+          "candidatos" : 197,
+          "abstenciones" : 81
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "251",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "LEGAZPI",
+          "censo" : 6993,
+          "nulos" : 46,
+          "blancos" : 53,
+          "candidatos" : 4572,
+          "abstenciones" : 2322
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "252",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "LEGORRETA",
+          "censo" : 1145,
+          "nulos" : 2,
+          "blancos" : 12,
+          "candidatos" : 785,
+          "abstenciones" : 346
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "254",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "LIZARTZA",
+          "censo" : 465,
+          "nulos" : 0,
+          "blancos" : 7,
+          "candidatos" : 343,
+          "abstenciones" : 115
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "257",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "MUTILOA",
+          "censo" : 192,
+          "nulos" : 0,
+          "blancos" : 2,
+          "candidatos" : 119,
+          "abstenciones" : 71
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "258",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "OLABERRIA",
+          "censo" : 765,
+          "nulos" : 1,
+          "blancos" : 5,
+          "candidatos" : 503,
+          "abstenciones" : 256
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "260",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "OREXA",
+          "censo" : 89,
+          "nulos" : 2,
+          "blancos" : 1,
+          "candidatos" : 77,
+          "abstenciones" : 9
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "262",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ORMAIZTEGI",
+          "censo" : 990,
+          "nulos" : 0,
+          "blancos" : 10,
+          "candidatos" : 704,
+          "abstenciones" : 276
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "270",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "SEGURA",
+          "censo" : 1100,
+          "nulos" : 3,
+          "blancos" : 5,
+          "candidatos" : 825,
+          "abstenciones" : 267
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "271",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "TOLOSA",
+          "censo" : 14599,
+          "nulos" : 46,
+          "blancos" : 123,
+          "candidatos" : 9502,
+          "abstenciones" : 4928
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "275",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "VILLABONA",
+          "censo" : 4397,
+          "nulos" : 14,
+          "blancos" : 49,
+          "candidatos" : 2753,
+          "abstenciones" : 1581
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "276",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ORDIZIA",
+          "censo" : 6956,
+          "nulos" : 22,
+          "blancos" : 77,
+          "candidatos" : 4580,
+          "abstenciones" : 2277
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "277",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "URRETXU",
+          "censo" : 5334,
+          "nulos" : 18,
+          "blancos" : 46,
+          "candidatos" : 3595,
+          "abstenciones" : 1675
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "278",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ZALDIBIA",
+          "censo" : 1156,
+          "nulos" : 5,
+          "blancos" : 10,
+          "candidatos" : 874,
+          "abstenciones" : 267
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "280",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ZUMARRAGA",
+          "censo" : 8109,
+          "nulos" : 40,
+          "blancos" : 62,
+          "candidatos" : 5097,
+          "abstenciones" : 2910
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "2904",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "BALIARRAIN",
+          "censo" : 103,
+          "nulos" : 0,
+          "blancos" : 1,
+          "candidatos" : 58,
+          "abstenciones" : 44
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "2905",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ORENDAIN",
+          "censo" : 139,
+          "nulos" : 0,
+          "blancos" : 1,
+          "candidatos" : 106,
+          "abstenciones" : 32
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "2906",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ALTZAGA",
+          "censo" : 116,
+          "nulos" : 0,
+          "blancos" : 1,
+          "candidatos" : 90,
+          "abstenciones" : 25
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "2907",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "GAZTELU",
+          "censo" : 138,
+          "nulos" : 4,
+          "blancos" : 1,
+          "candidatos" : 100,
+          "abstenciones" : 33
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "23",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "AIZARNAZABAL",
+          "censo" : 553,
+          "nulos" : 0,
+          "blancos" : 4,
+          "candidatos" : 376,
+          "abstenciones" : 173
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "211",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ANTZUOLA",
+          "censo" : 1692,
+          "nulos" : 5,
+          "blancos" : 7,
+          "candidatos" : 1259,
+          "abstenciones" : 421
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "213",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ARETXABALETA",
+          "censo" : 5389,
+          "nulos" : 35,
+          "blancos" : 27,
+          "candidatos" : 3617,
+          "abstenciones" : 1710
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "216",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "AIA",
+          "censo" : 1527,
+          "nulos" : 5,
+          "blancos" : 4,
+          "candidatos" : 1004,
+          "abstenciones" : 514
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "217",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "AZKOITIA",
+          "censo" : 8587,
+          "nulos" : 28,
+          "blancos" : 42,
+          "candidatos" : 5802,
+          "abstenciones" : 2715
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "218",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "AZPEITIA",
+          "censo" : 11064,
+          "nulos" : 37,
+          "blancos" : 68,
+          "candidatos" : 7671,
+          "abstenciones" : 3288
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "220",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "BEIZAMA",
+          "censo" : 139,
+          "nulos" : 0,
+          "blancos" : 1,
+          "candidatos" : 90,
+          "abstenciones" : 48
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "224",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "BIDEGOIAN",
+          "censo" : 397,
+          "nulos" : 1,
+          "blancos" : 1,
+          "candidatos" : 251,
+          "abstenciones" : 144
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "227",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ZESTOA",
+          "censo" : 2797,
+          "nulos" : 6,
+          "blancos" : 20,
+          "candidatos" : 1898,
+          "abstenciones" : 873
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "229",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "DEBA",
+          "censo" : 4266,
+          "nulos" : 13,
+          "blancos" : 35,
+          "candidatos" : 2994,
+          "abstenciones" : 1224
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "230",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "EIBAR",
+          "censo" : 22013,
+          "nulos" : 82,
+          "blancos" : 182,
+          "candidatos" : 14253,
+          "abstenciones" : 7496
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "232",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ELGOIBAR",
+          "censo" : 8902,
+          "nulos" : 41,
+          "blancos" : 70,
+          "candidatos" : 5925,
+          "abstenciones" : 2866
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "233",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ELGETA",
+          "censo" : 874,
+          "nulos" : 7,
+          "blancos" : 5,
+          "candidatos" : 656,
+          "abstenciones" : 206
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "234",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ESKORIATZA",
+          "censo" : 3169,
+          "nulos" : 9,
+          "blancos" : 11,
+          "candidatos" : 2011,
+          "abstenciones" : 1138
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "239",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "GETARIA",
+          "censo" : 2017,
+          "nulos" : 1,
+          "blancos" : 14,
+          "candidatos" : 1556,
+          "abstenciones" : 446
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "255",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ARRASATE / MONDRAGON",
+          "censo" : 17704,
+          "nulos" : 72,
+          "blancos" : 123,
+          "candidatos" : 11199,
+          "abstenciones" : 6310
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "256",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "MUTRIKU",
+          "censo" : 4002,
+          "nulos" : 17,
+          "blancos" : 45,
+          "candidatos" : 2626,
+          "abstenciones" : 1314
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "259",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "OÑATI",
+          "censo" : 8846,
+          "nulos" : 19,
+          "blancos" : 50,
+          "candidatos" : 6339,
+          "abstenciones" : 2438
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "261",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ORIO",
+          "censo" : 4047,
+          "nulos" : 9,
+          "blancos" : 26,
+          "candidatos" : 2694,
+          "abstenciones" : 1318
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "265",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "SORALUZE-PLACENCIA DE LAS ARMAS",
+          "censo" : 3112,
+          "nulos" : 8,
+          "blancos" : 21,
+          "candidatos" : 2043,
+          "abstenciones" : 1040
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "266",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ERREZIL",
+          "censo" : 466,
+          "nulos" : 6,
+          "blancos" : 0,
+          "candidatos" : 320,
+          "abstenciones" : 140
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "268",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "LEINTZ-GATZAGA",
+          "censo" : 200,
+          "nulos" : 0,
+          "blancos" : 1,
+          "candidatos" : 121,
+          "abstenciones" : 78
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "274",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "BERGARA",
+          "censo" : 11612,
+          "nulos" : 49,
+          "blancos" : 83,
+          "candidatos" : 7849,
+          "abstenciones" : 3631
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "279",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ZARAUTZ",
+          "censo" : 17258,
+          "nulos" : 67,
+          "blancos" : 146,
+          "candidatos" : 11496,
+          "abstenciones" : 5549
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "281",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "ZUMAIA",
+          "censo" : 7393,
+          "nulos" : 34,
+          "blancos" : 54,
+          "candidatos" : 4877,
+          "abstenciones" : 2428
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "2901",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "MENDARO",
+          "censo" : 1458,
+          "nulos" : 6,
+          "blancos" : 3,
+          "candidatos" : 961,
+          "abstenciones" : 488
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "2999",
+     "fields" : {
+          "provincia" : 2,
+          "name" : "C.E.R.A. Gipuzkoa",
+          "censo" : 21692,
+          "nulos" : 25,
+          "blancos" : 10,
+          "candidatos" : 1900,
+          "abstenciones" : 19757
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "320",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "BILBAO",
+          "censo" : 275318,
+          "nulos" : 1095,
+          "blancos" : 2347,
+          "candidatos" : 175481,
+          "abstenciones" : 96395
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "32",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ABANTO Y CIÉRVANA-ABANTO ZIERBENA",
+          "censo" : 7968,
+          "nulos" : 66,
+          "blancos" : 92,
+          "candidatos" : 4924,
+          "abstenciones" : 2886
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "38",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ARTZENTALES",
+          "censo" : 601,
+          "nulos" : 14,
+          "blancos" : 4,
+          "candidatos" : 423,
+          "abstenciones" : 160
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "313",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "BARAKALDO",
+          "censo" : 80765,
+          "nulos" : 455,
+          "blancos" : 731,
+          "candidatos" : 48207,
+          "abstenciones" : 31372
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "322",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "KARRANTZA HARANA / VALLE DE CARRANZA",
+          "censo" : 2405,
+          "nulos" : 12,
+          "blancos" : 18,
+          "candidatos" : 1517,
+          "abstenciones" : 858
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "337",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "GALDAMES",
+          "censo" : 710,
+          "nulos" : 3,
+          "blancos" : 7,
+          "candidatos" : 519,
+          "abstenciones" : 181
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "342",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "GORDEXOLA",
+          "censo" : 1390,
+          "nulos" : 21,
+          "blancos" : 7,
+          "candidatos" : 1044,
+          "abstenciones" : 318
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "345",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "GÜEÑES",
+          "censo" : 5093,
+          "nulos" : 55,
+          "blancos" : 48,
+          "candidatos" : 3683,
+          "abstenciones" : 1307
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "351",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "LANESTOSA",
+          "censo" : 219,
+          "nulos" : 1,
+          "blancos" : 4,
+          "candidatos" : 150,
+          "abstenciones" : 64
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "371",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "MUSKIZ",
+          "censo" : 6117,
+          "nulos" : 55,
+          "blancos" : 50,
+          "candidatos" : 4046,
+          "abstenciones" : 1966
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "378",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "PORTUGALETE",
+          "censo" : 39454,
+          "nulos" : 229,
+          "blancos" : 330,
+          "candidatos" : 24564,
+          "abstenciones" : 14331
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "380",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "VALLE DE TRÁPAGA-TRAPAGARAN",
+          "censo" : 10067,
+          "nulos" : 86,
+          "blancos" : 91,
+          "candidatos" : 6299,
+          "abstenciones" : 3591
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "382",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "SANTURTZI",
+          "censo" : 38338,
+          "nulos" : 188,
+          "blancos" : 351,
+          "candidatos" : 23315,
+          "abstenciones" : 14484
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "383",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ORTUELLA",
+          "censo" : 6998,
+          "nulos" : 57,
+          "blancos" : 65,
+          "candidatos" : 4367,
+          "abstenciones" : 2509
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "384",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "SESTAO",
+          "censo" : 23296,
+          "nulos" : 141,
+          "blancos" : 194,
+          "candidatos" : 13792,
+          "abstenciones" : 9169
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "386",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "SOPUERTA",
+          "censo" : 2068,
+          "nulos" : 10,
+          "blancos" : 17,
+          "candidatos" : 1381,
+          "abstenciones" : 660
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "387",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "TRUCIOS-TURTZIOZ",
+          "censo" : 463,
+          "nulos" : 3,
+          "blancos" : 4,
+          "candidatos" : 350,
+          "abstenciones" : 106
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "390",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "BALMASEDA",
+          "censo" : 6146,
+          "nulos" : 88,
+          "blancos" : 44,
+          "candidatos" : 4282,
+          "abstenciones" : 1732
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "396",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ZALLA",
+          "censo" : 6658,
+          "nulos" : 96,
+          "blancos" : 61,
+          "candidatos" : 4671,
+          "abstenciones" : 1830
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "3912",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ALONSOTEGI",
+          "censo" : 2310,
+          "nulos" : 24,
+          "blancos" : 20,
+          "candidatos" : 1709,
+          "abstenciones" : 557
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "3913",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ZIERBENA",
+          "censo" : 1261,
+          "nulos" : 19,
+          "blancos" : 16,
+          "candidatos" : 899,
+          "abstenciones" : 327
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "31",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ABADIÑO",
+          "censo" : 5846,
+          "nulos" : 26,
+          "blancos" : 27,
+          "candidatos" : 3798,
+          "abstenciones" : 1995
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "33",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "AMOREBIETA-ETXANO",
+          "censo" : 14175,
+          "nulos" : 101,
+          "blancos" : 70,
+          "candidatos" : 9753,
+          "abstenciones" : 4251
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "35",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ARAKALDO",
+          "censo" : 91,
+          "nulos" : 0,
+          "blancos" : 1,
+          "candidatos" : 55,
+          "abstenciones" : 35
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "36",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ARANTZAZU",
+          "censo" : 287,
+          "nulos" : 1,
+          "blancos" : 4,
+          "candidatos" : 243,
+          "abstenciones" : 39
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "39",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ARRANKUDIAGA",
+          "censo" : 763,
+          "nulos" : 2,
+          "blancos" : 4,
+          "candidatos" : 604,
+          "abstenciones" : 153
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "311",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ARRIGORRIAGA",
+          "censo" : 9695,
+          "nulos" : 51,
+          "blancos" : 105,
+          "candidatos" : 6217,
+          "abstenciones" : 3322
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "315",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "BASAURI",
+          "censo" : 34605,
+          "nulos" : 174,
+          "blancos" : 267,
+          "candidatos" : 21572,
+          "abstenciones" : 12592
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "319",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "BERRIZ",
+          "censo" : 3669,
+          "nulos" : 25,
+          "blancos" : 21,
+          "candidatos" : 2409,
+          "abstenciones" : 1214
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "323",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ARTEA",
+          "censo" : 591,
+          "nulos" : 1,
+          "blancos" : 6,
+          "candidatos" : 493,
+          "abstenciones" : 91
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "324",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ZEANURI",
+          "censo" : 1012,
+          "nulos" : 2,
+          "blancos" : 7,
+          "candidatos" : 841,
+          "abstenciones" : 162
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "325",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ZEBERIO",
+          "censo" : 882,
+          "nulos" : 4,
+          "blancos" : 3,
+          "candidatos" : 661,
+          "abstenciones" : 214
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "326",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "DIMA",
+          "censo" : 1101,
+          "nulos" : 3,
+          "blancos" : 0,
+          "candidatos" : 905,
+          "abstenciones" : 193
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "327",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "DURANGO",
+          "censo" : 21692,
+          "nulos" : 92,
+          "blancos" : 154,
+          "candidatos" : 14552,
+          "abstenciones" : 6894
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "329",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ETXEBARRI",
+          "censo" : 8094,
+          "nulos" : 39,
+          "blancos" : 82,
+          "candidatos" : 4897,
+          "abstenciones" : 3076
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "332",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ELORRIO",
+          "censo" : 5812,
+          "nulos" : 30,
+          "blancos" : 30,
+          "candidatos" : 4052,
+          "abstenciones" : 1700
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "334",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ERMUA",
+          "censo" : 13112,
+          "nulos" : 62,
+          "blancos" : 102,
+          "candidatos" : 8117,
+          "abstenciones" : 4831
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "336",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "GALDAKAO",
+          "censo" : 23963,
+          "nulos" : 139,
+          "blancos" : 169,
+          "candidatos" : 15382,
+          "abstenciones" : 8273
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "339",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "GARAI",
+          "censo" : 257,
+          "nulos" : 0,
+          "blancos" : 1,
+          "candidatos" : 219,
+          "abstenciones" : 37
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "350",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "IZURTZA",
+          "censo" : 216,
+          "nulos" : 2,
+          "blancos" : 0,
+          "candidatos" : 178,
+          "abstenciones" : 36
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "355",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "LEMOA",
+          "censo" : 2663,
+          "nulos" : 27,
+          "blancos" : 24,
+          "candidatos" : 1940,
+          "abstenciones" : 672
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "358",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "MALLABIA",
+          "censo" : 984,
+          "nulos" : 6,
+          "blancos" : 6,
+          "candidatos" : 673,
+          "abstenciones" : 299
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "359",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "MAÑARIA",
+          "censo" : 397,
+          "nulos" : 0,
+          "blancos" : 0,
+          "candidatos" : 308,
+          "abstenciones" : 89
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "365",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "UGAO-MIRABALLES",
+          "censo" : 3299,
+          "nulos" : 27,
+          "blancos" : 28,
+          "candidatos" : 2273,
+          "abstenciones" : 971
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "372",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "OTXANDIO",
+          "censo" : 1006,
+          "nulos" : 3,
+          "blancos" : 7,
+          "candidatos" : 787,
+          "abstenciones" : 209
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "374",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "URDUÑA/ORDUÑA",
+          "censo" : 3360,
+          "nulos" : 43,
+          "blancos" : 20,
+          "candidatos" : 2344,
+          "abstenciones" : 953
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "375",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "OROZKO",
+          "censo" : 1936,
+          "nulos" : 28,
+          "blancos" : 16,
+          "candidatos" : 1353,
+          "abstenciones" : 539
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "388",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "UBIDE",
+          "censo" : 143,
+          "nulos" : 1,
+          "blancos" : 1,
+          "candidatos" : 114,
+          "abstenciones" : 27
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "391",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ATXONDO",
+          "censo" : 1162,
+          "nulos" : 8,
+          "blancos" : 11,
+          "candidatos" : 795,
+          "abstenciones" : 348
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "392",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "BEDIA",
+          "censo" : 817,
+          "nulos" : 5,
+          "blancos" : 9,
+          "candidatos" : 594,
+          "abstenciones" : 209
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "393",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "AREATZA",
+          "censo" : 902,
+          "nulos" : 11,
+          "blancos" : 5,
+          "candidatos" : 697,
+          "abstenciones" : 189
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "394",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "IGORRE",
+          "censo" : 3278,
+          "nulos" : 22,
+          "blancos" : 20,
+          "candidatos" : 2368,
+          "abstenciones" : 868
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "395",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ZALDIBAR",
+          "censo" : 2369,
+          "nulos" : 14,
+          "blancos" : 15,
+          "candidatos" : 1430,
+          "abstenciones" : 910
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "397",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ZARATAMO",
+          "censo" : 1345,
+          "nulos" : 7,
+          "blancos" : 7,
+          "candidatos" : 883,
+          "abstenciones" : 448
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "3910",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "IURRETA",
+          "censo" : 3057,
+          "nulos" : 6,
+          "blancos" : 10,
+          "candidatos" : 1989,
+          "abstenciones" : 1052
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "34",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "AMOROTO",
+          "censo" : 326,
+          "nulos" : 0,
+          "blancos" : 2,
+          "candidatos" : 246,
+          "abstenciones" : 78
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "37",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "MUNITIBAR-ARBATZEGI GERRIKAITZ-",
+          "censo" : 357,
+          "nulos" : 0,
+          "blancos" : 2,
+          "candidatos" : 270,
+          "abstenciones" : 85
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "310",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ARRIETA",
+          "censo" : 436,
+          "nulos" : 2,
+          "blancos" : 1,
+          "candidatos" : 321,
+          "abstenciones" : 112
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "312",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "BAKIO",
+          "censo" : 2040,
+          "nulos" : 14,
+          "blancos" : 18,
+          "candidatos" : 1607,
+          "abstenciones" : 401
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "314",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "BARRIKA",
+          "censo" : 1195,
+          "nulos" : 3,
+          "blancos" : 9,
+          "candidatos" : 820,
+          "abstenciones" : 363
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "316",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "BERANGO",
+          "censo" : 5178,
+          "nulos" : 25,
+          "blancos" : 43,
+          "candidatos" : 3543,
+          "abstenciones" : 1567
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "317",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "BERMEO",
+          "censo" : 13438,
+          "nulos" : 31,
+          "blancos" : 49,
+          "candidatos" : 9148,
+          "abstenciones" : 4210
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "318",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "BERRIATUA",
+          "censo" : 890,
+          "nulos" : 0,
+          "blancos" : 4,
+          "candidatos" : 622,
+          "abstenciones" : 264
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "321",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "BUSTURIA",
+          "censo" : 1425,
+          "nulos" : 6,
+          "blancos" : 14,
+          "candidatos" : 1006,
+          "abstenciones" : 399
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "328",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "EA",
+          "censo" : 755,
+          "nulos" : 1,
+          "blancos" : 5,
+          "candidatos" : 610,
+          "abstenciones" : 139
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "330",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ETXEBARRIA",
+          "censo" : 621,
+          "nulos" : 0,
+          "blancos" : 3,
+          "candidatos" : 507,
+          "abstenciones" : 111
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "331",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ELANTXOBE",
+          "censo" : 353,
+          "nulos" : 0,
+          "blancos" : 1,
+          "candidatos" : 295,
+          "abstenciones" : 57
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "333",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "EREÑO",
+          "censo" : 212,
+          "nulos" : 0,
+          "blancos" : 2,
+          "candidatos" : 168,
+          "abstenciones" : 42
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "335",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "FRUIZ",
+          "censo" : 407,
+          "nulos" : 3,
+          "blancos" : 4,
+          "candidatos" : 313,
+          "abstenciones" : 87
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "338",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "GAMIZ-FIKA",
+          "censo" : 1088,
+          "nulos" : 5,
+          "blancos" : 10,
+          "candidatos" : 821,
+          "abstenciones" : 252
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "340",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "GATIKA",
+          "censo" : 1269,
+          "nulos" : 6,
+          "blancos" : 18,
+          "candidatos" : 902,
+          "abstenciones" : 343
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "341",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "GAUTEGIZ ARTEAGA",
+          "censo" : 722,
+          "nulos" : 6,
+          "blancos" : 2,
+          "candidatos" : 577,
+          "abstenciones" : 137
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "343",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "GORLIZ",
+          "censo" : 4251,
+          "nulos" : 19,
+          "blancos" : 45,
+          "candidatos" : 2969,
+          "abstenciones" : 1218
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "344",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "GETXO",
+          "censo" : 63687,
+          "nulos" : 272,
+          "blancos" : 593,
+          "candidatos" : 44399,
+          "abstenciones" : 18423
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "346",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "GERNIKA-LUMO",
+          "censo" : 12666,
+          "nulos" : 56,
+          "blancos" : 77,
+          "candidatos" : 9271,
+          "abstenciones" : 3262
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "347",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "GIZABURUAGA",
+          "censo" : 161,
+          "nulos" : 0,
+          "blancos" : 2,
+          "candidatos" : 122,
+          "abstenciones" : 37
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "348",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "IBARRANGELU",
+          "censo" : 559,
+          "nulos" : 2,
+          "blancos" : 1,
+          "candidatos" : 421,
+          "abstenciones" : 135
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "349",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ISPASTER",
+          "censo" : 560,
+          "nulos" : 0,
+          "blancos" : 0,
+          "candidatos" : 461,
+          "abstenciones" : 99
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "352",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "LARRABETZU",
+          "censo" : 1543,
+          "nulos" : 6,
+          "blancos" : 8,
+          "candidatos" : 1224,
+          "abstenciones" : 305
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "353",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "LAUKIZ",
+          "censo" : 870,
+          "nulos" : 2,
+          "blancos" : 7,
+          "candidatos" : 650,
+          "abstenciones" : 211
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "354",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "LEIOA",
+          "censo" : 23788,
+          "nulos" : 147,
+          "blancos" : 241,
+          "candidatos" : 15330,
+          "abstenciones" : 8070
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "356",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "LEMOIZ",
+          "censo" : 904,
+          "nulos" : 3,
+          "blancos" : 3,
+          "candidatos" : 658,
+          "abstenciones" : 240
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "357",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "LEKEITIO",
+          "censo" : 5909,
+          "nulos" : 11,
+          "blancos" : 32,
+          "candidatos" : 4458,
+          "abstenciones" : 1408
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "360",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "MARKINA-XEMEIN",
+          "censo" : 3699,
+          "nulos" : 8,
+          "blancos" : 13,
+          "candidatos" : 2575,
+          "abstenciones" : 1103
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "361",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "MARURI-JATABE",
+          "censo" : 768,
+          "nulos" : 7,
+          "blancos" : 6,
+          "candidatos" : 586,
+          "abstenciones" : 169
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "362",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "MENDATA",
+          "censo" : 308,
+          "nulos" : 1,
+          "blancos" : 2,
+          "candidatos" : 252,
+          "abstenciones" : 53
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "363",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "MENDEXA",
+          "censo" : 352,
+          "nulos" : 0,
+          "blancos" : 2,
+          "candidatos" : 289,
+          "abstenciones" : 61
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "364",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "MEÑAKA",
+          "censo" : 599,
+          "nulos" : 2,
+          "blancos" : 3,
+          "candidatos" : 468,
+          "abstenciones" : 126
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "366",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "MORGA",
+          "censo" : 358,
+          "nulos" : 0,
+          "blancos" : 0,
+          "candidatos" : 276,
+          "abstenciones" : 82
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "367",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "MUXIKA",
+          "censo" : 1191,
+          "nulos" : 5,
+          "blancos" : 1,
+          "candidatos" : 906,
+          "abstenciones" : 279
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "368",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "MUNDAKA",
+          "censo" : 1575,
+          "nulos" : 4,
+          "blancos" : 8,
+          "candidatos" : 1248,
+          "abstenciones" : 315
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "369",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "MUNGIA",
+          "censo" : 12486,
+          "nulos" : 45,
+          "blancos" : 90,
+          "candidatos" : 8594,
+          "abstenciones" : 3757
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "370",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "AULESTI",
+          "censo" : 543,
+          "nulos" : 2,
+          "blancos" : 6,
+          "candidatos" : 399,
+          "abstenciones" : 136
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "373",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ONDARROA",
+          "censo" : 7090,
+          "nulos" : 27,
+          "blancos" : 39,
+          "candidatos" : 4832,
+          "abstenciones" : 2192
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "376",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "SUKARRIETA",
+          "censo" : 298,
+          "nulos" : 0,
+          "blancos" : 1,
+          "candidatos" : 239,
+          "abstenciones" : 58
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "377",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "PLENTZIA",
+          "censo" : 3386,
+          "nulos" : 16,
+          "blancos" : 23,
+          "candidatos" : 2428,
+          "abstenciones" : 919
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "379",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ERRIGOITI",
+          "censo" : 459,
+          "nulos" : 0,
+          "blancos" : 6,
+          "candidatos" : 377,
+          "abstenciones" : 76
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "381",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "LEZAMA",
+          "censo" : 1906,
+          "nulos" : 6,
+          "blancos" : 19,
+          "candidatos" : 1401,
+          "abstenciones" : 480
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "385",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "SOPELANA",
+          "censo" : 9982,
+          "nulos" : 55,
+          "blancos" : 97,
+          "candidatos" : 6746,
+          "abstenciones" : 3084
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "389",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "URDULIZ",
+          "censo" : 2949,
+          "nulos" : 14,
+          "blancos" : 23,
+          "candidatos" : 2114,
+          "abstenciones" : 798
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "3901",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "DERIO",
+          "censo" : 4501,
+          "nulos" : 22,
+          "blancos" : 50,
+          "candidatos" : 3115,
+          "abstenciones" : 1314
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "3902",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ERANDIO",
+          "censo" : 19229,
+          "nulos" : 105,
+          "blancos" : 236,
+          "candidatos" : 11793,
+          "abstenciones" : 7095
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "3903",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "LOIU",
+          "censo" : 1915,
+          "nulos" : 11,
+          "blancos" : 7,
+          "candidatos" : 1411,
+          "abstenciones" : 486
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "3904",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "SONDIKA",
+          "censo" : 3523,
+          "nulos" : 27,
+          "blancos" : 43,
+          "candidatos" : 2575,
+          "abstenciones" : 878
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "3905",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ZAMUDIO",
+          "censo" : 2583,
+          "nulos" : 31,
+          "blancos" : 18,
+          "candidatos" : 1836,
+          "abstenciones" : 698
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "3906",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "FORUA",
+          "censo" : 778,
+          "nulos" : 1,
+          "blancos" : 4,
+          "candidatos" : 624,
+          "abstenciones" : 149
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "3907",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "KORTEZUBI",
+          "censo" : 346,
+          "nulos" : 1,
+          "blancos" : 5,
+          "candidatos" : 290,
+          "abstenciones" : 50
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "3908",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "MURUETA",
+          "censo" : 243,
+          "nulos" : 3,
+          "blancos" : 1,
+          "candidatos" : 195,
+          "abstenciones" : 44
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "3909",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "NABARNIZ",
+          "censo" : 193,
+          "nulos" : 0,
+          "blancos" : 1,
+          "candidatos" : 161,
+          "abstenciones" : 31
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "3911",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "AJANGIZ",
+          "censo" : 368,
+          "nulos" : 1,
+          "blancos" : 4,
+          "candidatos" : 303,
+          "abstenciones" : 60
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "3914",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ARRATZU",
+          "censo" : 323,
+          "nulos" : 2,
+          "blancos" : 2,
+          "candidatos" : 274,
+          "abstenciones" : 45
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "3915",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "ZIORTZA - BOLIBAR",
+          "censo" : 364,
+          "nulos" : 1,
+          "blancos" : 1,
+          "candidatos" : 277,
+          "abstenciones" : 85
+      }
+     }
+,
+    {
+     "model" : "town_graphs.Municipio",
+     "pk" : "3999",
+     "fields" : {
+          "provincia" : 3,
+          "name" : "C.E.R.A. BIZKAIA",
+          "censo" : 30271,
+          "nulos" : 24,
+          "blancos" : 9,
+          "candidatos" : 1671,
+          "abstenciones" : 28567
+      }
+     }
+
+  ]

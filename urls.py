@@ -18,3 +18,29 @@ urlpatterns = patterns('',
     url(r'^municipio/(?P<municipio_id>\d+)/$', 'town_graphs.views.detail'),
     (r'^static/(?P<path>.*)$', 'django.views.static.serve', {'document_root': '/home/mikel/open_data/elecciones2012/elecciones2012/town_graphs/static'}),
 )
+
+#My code
+
+import urllib
+import json
+from town_graphs.models import Municipio
+
+municipios = Municipio.objects.all()
+
+for municipio in municipios:
+    if None in [municipio.lat, municipio.long]:
+        params = urllib.urlencode({'name': municipio.name.encode('utf-8'), 'type': 'json', 'username': 'memaldi'})
+        response = urllib.urlopen('http://api.geonames.org/search?%s' % params)
+        json_response = json.loads('[' + response.read() + ']')
+        #print json_response[0]
+        done = False
+        if json_response[0]['totalResultsCount'] > 0:
+            for item in json_response[0]['geonames']:
+                if item['countryName'] == 'Spain':
+                    municipio.lat = item['lat']
+                    municipio.long = item['lng']
+                    municipio.save()
+                    done = True
+                    break;
+        if not done:
+            print municipio.name, municipio.id

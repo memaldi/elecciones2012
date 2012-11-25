@@ -15,6 +15,8 @@ class Municipio(models.Model):
     blancos = models.IntegerField()
     candidatos = models.IntegerField()
     abstenciones = models.IntegerField()
+    lat = models.FloatField(null=True)
+    long = models.FloatField(null=True)
 
 class Partido(models.Model):
     name = models.CharField(max_length=50)

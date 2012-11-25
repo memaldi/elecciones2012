@@ -3,7 +3,8 @@ from town_graphs.models import Municipio
 from django.shortcuts import render_to_response
 
 def index(request):
-    return HttpResponse("Hello, world. You're at the poll index.")
+    municipios = Municipio.objects.all()
+    return render_to_response('map.html', {'municipios': municipios})
 
 def detail(request, municipio_id):
     municipio = Municipio.objects.get(pk=municipio_id)

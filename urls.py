@@ -20,7 +20,7 @@ urlpatterns = patterns('',
 )
 
 #My code
-
+'''
 import urllib
 import json
 from town_graphs.models import Municipio
@@ -36,7 +36,7 @@ for municipio in municipios:
         done = False
         if json_response[0]['totalResultsCount'] > 0:
             for item in json_response[0]['geonames']:
-                if item['countryName'] == 'Spain':
+                if item['countryName'] == 'Spain' and item['fcl'] == 'A':
                     municipio.lat = item['lat']
                     municipio.long = item['lng']
                     municipio.save()
@@ -44,3 +44,5 @@ for municipio in municipios:
                     break;
         if not done:
             print municipio.name, municipio.id
+
+'''

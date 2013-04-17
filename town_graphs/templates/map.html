@@ -52,21 +52,25 @@
         <h1>Mapa interactivo</h1>
         
         
-        <h4>Capas</h4>
-        
-        <div class="btn-group" align="center">
+        <!--<div class="btn-group" align="center">
           <button class="btn" id="abstenciones">Índice de abstenciones</button>
           {% for key in partidos_data_dict %}
             <button class="btn">{{key}}</button>
           {% endfor %}
-          <!--<button class="btn">3</button>-->
+          <button class="btn">3</button>
+        </div>-->
+      
+      <br />
+      <br />
+        
+        <div>
+            <button id="abstenciones" class="btn btn-mini">Mostrar/ocultar índice de abstenciones</button>
         </div>
+        <br />
+      <div class="img-polaroid">
+          <div id="mapdiv"></div>
+      </div>
       
-      <br />
-      <br />
-      <div id="mapdiv"></div>
-      
-      {{municipios_dict}}
     </div>
           
           
@@ -111,7 +115,7 @@
                             new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
                             map.getProjectionObject() // to Spherical Mercator Projection
                           );
-                    var contentString = '<div>{{municipio.name}} : {{municipio.long}} , {{municipio.lat}}</div>'
+                    var contentString = '<div>{{municipio.name}} <br /> <a href="/municipio/{{municipio.id}}">Detalles</a></div>'
                     var popupClass = AutoSizeFramedCloud;
                     var popupContentHTML = contentString;
                           

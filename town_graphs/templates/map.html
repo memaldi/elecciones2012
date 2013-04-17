@@ -5,10 +5,70 @@
         <script src="http://www.openlayers.org/api/OpenLayers.js"></script>
         <script type="text/javascript" src="/static/js/heatmap.js"></script>
         <script type="text/javascript" src="/static/js/heatmap-openlayers.js"></script>
+        
+        <link href="/static/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+        <link href="/static/bootstrap/css/bootstrap-responsive.css" rel="stylesheet" media="screen">
+        <style>
+          body {
+            padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+          }
+        </style>
     </head>
 
     <body>
-          <div id="mapdiv"></div>
+        
+        <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="#">Project name</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li class="active"><a href="#">Home</a></li>
+              <li><a href="#about">About</a></li>
+              <li><a href="#contact">Contact</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+    
+    <style>
+        img.olTileImage {
+            max-width: none;
+        }
+    </style>
+      
+    <div class="container">
+        <!--<div class="hero-unit">
+            <h1>Elecciones a la cámara vasca octubre 2012</h1>
+            <p>Esta página está dedicada a las elecciones autonómicas a la cámara vasca celebradas el 21 de octubre de 2012. Además de este mapa interactivo, podrás encontrar diferentes visualizaciones de los resultados navegando por los diferentes menús de la parte superior de la página.</p>
+        </div>-->
+        
+        <h1>Mapa interactivo</h1>
+        
+        
+        <h4>Capas</h4>
+        
+        <div class="btn-group" align="center">
+          <button class="btn" id="abstenciones">Índice de abstenciones</button>
+          {% for key in partidos_data_dict %}
+            <button class="btn">{{key}}</button>
+          {% endfor %}
+          <!--<button class="btn">3</button>-->
+        </div>
+      
+      <br />
+      <br />
+      <div id="mapdiv"></div>
+      
+      {{municipios_dict}}
+    </div>
+          
           
           <script>
             map = new OpenLayers.Map("mapdiv");
@@ -32,15 +92,17 @@
                             map.getProjectionObject() // to Spherical Mercator Projection
                           );
             map.setCenter (position, zoom);
-            map.addControl(new OpenLayers.Control.LayerSwitcher());
+            //map.addControl(new OpenLayers.Control.LayerSwitcher());
          
             var markers = new OpenLayers.Layer.Markers("Resultados por municipio");
+            
+            //OpenLayers.Popup.FramedCloud.prototype.autoSize = false;
             AutoSizeFramedCloud = OpenLayers.Class(OpenLayers.Popup.FramedCloud, { 'autoSize': true });
             
             var size = new OpenLayers.Size(20,23);
             var offset = new OpenLayers.Pixel(-(size.w/2), -size.h);
             
-            var testData = { "max": 100, "data": []};
+            var abstenciones_testData = { "max": 100, "data": []};
             
             {% for municipio in municipios %}        
                 {% if municipio.long != None and municipio.lat != None %}
@@ -76,7 +138,7 @@
                           
                     markers.addMarker(marker);
                     
-                    testData.data.push({"lat": {{municipio.lat|stringformat:"f"}}, "lon": {{municipio.long|stringformat:"f"}}, "count": {{abstencion|get_key:municipio.name|stringformat:"f"}}});
+                    abstenciones_testData.data.push({"lat": {{municipio.lat|stringformat:"f"}}, "lon": {{municipio.long|stringformat:"f"}}, "count": {{abstencion|get_key:municipio.name|stringformat:"f"}}});
                     //testData.data.push({"lat": {{municipio.lat|stringformat:"f"}}, "lon": {{municipio.long|stringformat:"f"}}, "count": 50});
                 {% endif %}
             {% endfor %}
@@ -84,8 +146,8 @@
                           
             var wgsProjection  = new OpenLayers.Projection("EPSG:4326");
             
-            var transformedTestData = { "max": testData.max , "data": [] };
-            var data = testData.data;
+            var transformedTestData = { "max": 100 , "data": [] };
+            var data = abstenciones_testData.data;
             var datalen = data.length;
             var nudata = [];
             
@@ -98,16 +160,37 @@
                 transformedTestData.data = nudata;
             };
             
-            var heatmap = new OpenLayers.Layer.Heatmap( "heatmap", map, mapQuest, {visible: true, radius:25}, {isBaseLayer: false, opacity: 1, projection: wgsProjection});
+            var abstenciones_heatmap = new OpenLayers.Layer.Heatmap( "heatmap", map, mapQuest, {visible: false, radius:25}, {isBaseLayer: false, opacity: 1, projection: wgsProjection});
     
-            map.addLayer(heatmap);
+            map.addLayer(abstenciones_heatmap);
             
-            heatmap.setDataSet(transformedTestData);
-            map.addLayer(markers);   
+            abstenciones_heatmap.setDataSet(transformedTestData);
+            
+            {% for key in partidos_data_dict %}
+            
+                var transformedTestData = { "max": 100, "data": [] };
+                
+                //municipio_dict = {{partidos_data_dict|get_key:key}};
+                
+                var nudata = [];
+                
+                {% for municipio_key in municipio_dict %}
+                    
+                {% endfor %}
+            
+                var {{key|normalize_vars}}_heatmap = new OpenLayers.Layer.Heatmap( "heatmap", map, mapQuest, {visible: false, radius:25}, {isBaseLayer: false, opacity: 1, projection: wgsProjection});
+                map.addLayer({{key|normalize_vars}}_heatmap);
+            {% endfor %}
+            
+            map.addLayer(markers);
+            
+            document.getElementById("abstenciones").onclick = function(){
+                abstenciones_heatmap.toggle(); 
+            };
             
       </script>
-          
-          {{abstencion}}
-          
+      <script src="http://code.jquery.com/jquery-latest.js"></script>
+      <script src="/static/bootstrap/js/bootstrap.js"></script>
+                    
     </body>
 </html>
